@@ -8977,9 +8977,11 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
-#example
+#menu
 {
-  background: #DF013A;
+  background: #343a40;
+  width: 50%;
+  height: 30%;
 }
 
 }
